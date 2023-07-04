@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993226222039",
+    "project_id": "android-fourth-assignment",
+    "storage_bucket": "android-fourth-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993226222039:android:d80e1c968e4cf08ba4c392",
+        "android_client_info": {
+          "package_name": "com.eutraining.llolluni.androidfourthassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993226222039-7am127o46n6pkgjgo0oto2hqvjm1a9i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoKJ_yBa87i-IiOhQVqHuNvXiORuQ5p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993226222039-7am127o46n6pkgjgo0oto2hqvjm1a9i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
